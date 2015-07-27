@@ -1,2 +1,2 @@
-console.log('coin');
+console.log('pouet');
 console.log('coin!');
